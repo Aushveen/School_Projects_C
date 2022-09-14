@@ -2,7 +2,6 @@
 #include <string.h>
 
 void revBin(int num);
-
 int main(){
 	printf("Enter a number to find the reverse binary representation: \n");
 	int num;

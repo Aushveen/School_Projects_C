@@ -2,8 +2,6 @@
 #include <math.h>
 
 void primeFactors(int num);
-
-
 int main(){
 	int num;
 	printf("Enter a positive integer that you wish to find prime factors of: \n");

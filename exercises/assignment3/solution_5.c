@@ -8,10 +8,8 @@ int main(){
 		printf("n has to be a postive odd number\n");
 		return 0;
 	}
-
 	n /= 2;
 	n++;
-
 	for(int i = 1; i <= n; i++){
 		for(c = 1; c <= n - i; c++)
 		       printf(" ");
@@ -19,7 +17,6 @@ int main(){
 			printf("*");
 		printf("\n");
 	}
-
 	for(int i = 1; i <= n - 1; i++){
 		for(c = 1; c<= i; c++)
 			printf(" ");

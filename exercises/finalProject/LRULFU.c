@@ -160,9 +160,9 @@ int main() {
    insertFirst("Database");
    insertFirst("Search");
 
-   //add UI and checks to make sure it is LRU, it is simple for loops, prints, etc.
+   //add prints and checks to make sure it is LRU, it is simple for loops, prints, etc.
    
-   // how tf do i make it into a least frequently used cache
+   // how do i make it into a least frequently used cache
 
 
    displayForward();
